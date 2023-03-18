@@ -1,4 +1,7 @@
 function love.load()
+    -- For ZeroBrane debugger
+    -- if arg[#arg] == "-debug" then require("mobdebug").start() end
+    
     birdX = 62
     birdWidth = 30
     birdHeight = 25
