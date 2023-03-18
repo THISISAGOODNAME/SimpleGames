@@ -9,7 +9,7 @@ Simple Games
 
 # links
 
-https://studio.zerobrane.com/
-https://github.com/pkulchenko/ZeroBraneStudio
-https://github.com/samyeyo/LuaRT-Studio
-https://simplegametutorials.github.io/
+- https://studio.zerobrane.com/
+- https://github.com/pkulchenko/ZeroBraneStudio
+- https://github.com/samyeyo/LuaRT-Studio
+- https://simplegametutorials.github.io/
