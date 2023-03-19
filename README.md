@@ -20,6 +20,10 @@ Simple Games
 
 ![Blocks](screenshots/Blocks.png)
 
+### Snake
+
+![Snake](screenshots/Snake.png)
+
 # Use zerobrane to debug love2d
 
 - Make [LÖVE executable](https://love2d.org/) available in PATH or put it into one of the default folders: `C:\Program Files\love` or `D:\Program Files\love` on Windows or `/Applications` on Mac OS X.
