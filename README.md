@@ -48,6 +48,10 @@ Simple Games
 
 ![Eyes](screenshots/Eyes.png)
 
+### 2048
+
+![2048](screenshots/2048.png)
+
 # Use zerobrane to debug love2d
 
 - Make [LÖVE executable](https://love2d.org/) available in PATH or put it into one of the default folders: `C:\Program Files\love` or `D:\Program Files\love` on Windows or `/Applications` on Mac OS X.
